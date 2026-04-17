@@ -1,0 +1,17 @@
+{
+  "project": "my_app",
+  "platform": "ios",
+  "github": {
+    "owner": "lsj06402000-dev",
+    "repo": "my.app"
+  },
+  "ios": {
+    "path": "ios"
+  },
+  "flutter": {
+    "version": "3.41.6",
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
